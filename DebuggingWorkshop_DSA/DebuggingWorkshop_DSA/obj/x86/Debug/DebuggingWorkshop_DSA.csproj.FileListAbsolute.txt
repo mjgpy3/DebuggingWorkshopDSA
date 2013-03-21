@@ -1,0 +1,6 @@
+C:\Users\Michael\AppData\Local\Temporary Projects\DebuggingWorkshop_DSA\bin\Debug\DebuggingWorkshop_DSA.exe
+C:\Users\Michael\AppData\Local\Temporary Projects\DebuggingWorkshop_DSA\bin\Debug\DebuggingWorkshop_DSA.pdb
+C:\Users\Michael\AppData\Local\Temporary Projects\DebuggingWorkshop_DSA\obj\x86\Debug\DebuggingWorkshop_DSA.exe
+C:\Users\Michael\AppData\Local\Temporary Projects\DebuggingWorkshop_DSA\obj\x86\Debug\DebuggingWorkshop_DSA.pdb
+C:\Users\Michael\Documents\Teaching\DebuggingWorkshops\DSA\DebuggingWorkshop_DSA\DebuggingWorkshop_DSA\obj\x86\Debug\DebuggingWorkshop_DSA.exe
+C:\Users\Michael\Documents\Teaching\DebuggingWorkshops\DSA\DebuggingWorkshop_DSA\DebuggingWorkshop_DSA\obj\x86\Debug\DebuggingWorkshop_DSA.pdb
